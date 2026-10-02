@@ -33,7 +33,7 @@ import { useCart } from "../context/CartContext";
 import { useAuth } from "../context/AuthContext";
 
 const images = [
-  "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1920&q=90",
+  "/fresh-fish-collection.png",
   "https://images.unsplash.com/photo-1587593810167-a84920ea0781?auto=format&fit=crop&w=1920&q=90",
   "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1920&q=90",
   "https://images.unsplash.com/photo-1588347818036-558601350947?auto=format&fit=crop&w=1920&q=90",
@@ -76,7 +76,7 @@ const categoryImages: Record<string, string> = {
   Meat: "https://images.unsplash.com/photo-1603048297172-c92544798d5a?auto=format&fit=crop&w=800&q=85",
   Poultry:
     "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=800&q=85",
-  Fish: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=800&q=85",
+  Fish: "/fresh-fish-collection.png",
   Seafood:
     "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=800&q=85",
   Processed:
