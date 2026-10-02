@@ -33,7 +33,7 @@ import { useCart } from "../context/CartContext";
 import { useAuth } from "../context/AuthContext";
 
 const images = [
-  "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1920&q=90",
+  "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1920&q=90",
   "https://images.unsplash.com/photo-1587593810167-a84920ea0781?auto=format&fit=crop&w=1920&q=90",
   "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1920&q=90",
   "https://images.unsplash.com/photo-1588347818036-558601350947?auto=format&fit=crop&w=1920&q=90",
